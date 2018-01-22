@@ -1,4 +1,5 @@
 # GaeilgeNLP
+Future home of our ruby gem for interacting as Gaeilge. 🍀
 
 ## Modules
 
