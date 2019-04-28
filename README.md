@@ -1,9 +1,13 @@
-# GaeilgeRuby
-Ruby gems and projects that we created for Gaeilge (_Irish_) 
+# ☘️
+An overview of projects we're working on for Gaeilge (_Irish_)
 
+## Social media
+## Apparel
+## Websites
+### Features
 ## NLP
-### Spell check
-- [Project: Spellchecker](https://github.com/love-irish/spellchecker) - Built a [spell check algorithm](http://norvig.com/spell-correct.html) to check for spelling (grá na ghaeilge vs gar na gheailge) using ngrams. 
+### Spelling & Grammar
+- [Project: Spellchecker](https://github.com/love-irish/spellchecker) - Built a [spell check algorithm](http://norvig.com/spell-correct.html) in ruby to check for spelling (grá na ghaeilge vs gar na gheailge) using ngrams. 
 
 ## Contributors
 [Back to Top](#contents)
