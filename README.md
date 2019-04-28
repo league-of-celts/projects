@@ -1,5 +1,5 @@
 # ☘️
-An overview of projects we're working on for Gaeilge (_Irish_)
+A guide to what we're working on
 
 ## Social media
 ## Apparel
